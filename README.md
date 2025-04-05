@@ -33,7 +33,9 @@ The Simple Task Tracker system enables users to easily search, filter, and manag
 ### ER DIAGRAM 
 
 
-### USER FLOW CHART 
+### Use Case Diagram
+
+![20250405_223422](https://github.com/user-attachments/assets/e29a4f27-6cf5-40aa-8e22-d2e8ff66341c)
 
 
 ## User Roles and Stories
