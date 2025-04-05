@@ -49,6 +49,7 @@ The Simple Task Tracker system enables users to easily search, filter, and manag
 ### Administrator (MA)
 - **Manage users**: Add and update users and managers.
 - **View and manage all tasks**: Manage tasks.
+- **Assign task**: Assign Tasks
 
 ### manager
 - **Manage Tasks**: Manage all tasks.
