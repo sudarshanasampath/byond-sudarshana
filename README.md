@@ -32,6 +32,9 @@ The Simple Task Tracker system enables users to easily search, filter, and manag
 ## Diagrammatic Representation
 ### ER DIAGRAM 
 
+Dependency : Spatie/Permission
+![20250405_232536](https://github.com/user-attachments/assets/4947020d-73d1-4a13-9f5f-de69c7b4d375)
+
 
 ### Use Case Diagram
 
